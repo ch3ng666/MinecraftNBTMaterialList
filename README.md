@@ -1,2 +1,2 @@
 # MinecraftNBTMaterialList
-Creates a txt file with all materials from a Minecraft nbt file
+Creates a txt file with all materials from a Minecraft nbt file (Structure)
